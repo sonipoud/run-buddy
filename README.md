@@ -12,3 +12,4 @@ https://sonipoud.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Sonika Poudyal 
+
